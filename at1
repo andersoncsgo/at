@@ -1,0 +1,9 @@
+var v1, v2, v3;
+
+
+v1 = Number(prompt());
+v2 = Number(prompt());
+v3 = Number(prompt());
+
+
+console.log("Números digitados: " + v1 + ", " + v2 + ", " + v3);
