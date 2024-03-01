@@ -1,0 +1,11 @@
+var num1, num2, num3, media;
+
+
+num1 = Number(prompt());
+num2 = Number(prompt());
+num3 = Number(prompt());
+
+media = (num1 + num2 + num3) / 3;
+
+
+console.log("Média dos números: " + media);
